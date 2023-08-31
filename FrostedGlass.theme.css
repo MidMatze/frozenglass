@@ -21,7 +21,7 @@
 :root {
   /* Background image variables */
   --background-image: url('https://cdn.discordapp.com/attachments/695956914072322060/1146929251354943661/Anime-Wombo-Mid-Matze-HQ.png'); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
-  --background-image-blur: 3px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
+  --background-image-blur: 0px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
 
