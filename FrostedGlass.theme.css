@@ -41,7 +41,7 @@
   --left-brightness: 0.8; /* Channels and DM list brightness | 0 - 1 (decimals allowed) | DEFAULT: 0.8 */
   --middle-brightness: 0.6; /* Chat brightness | 0 - 1 (decimals allowed) | DEFAULT: 0.6 */
   --right-brightness: 0.4; /* Members and Now Playing brightness | 0 - 1 (decimals allowed) | DEFAULT: 0 */
-  --popout-modal-brightness: 0.75; /* Brightness for popouts and modals | 0 - 1 (decimals allowed) | DEFAULT: 0.75 */
+  --popout-modal-brightness: 0.3; /* Brightness for popouts and modals | 0 - 1 (decimals allowed) | DEFAULT: 0.75 */
 
   /* Gradient variables */
   --gradient-primary: 103,58,183; /* DEFAULT: 103,58,183 */
