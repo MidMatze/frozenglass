@@ -57,7 +57,8 @@
   --window-roundness: 0px; /* Roundness of Discord | DEFAULT: 10px */
   --scrollbar-colour: rgba(255,255,255,0.05); /* DEFAULT: rgba(255,255,255,0.05) */
   --link-colour: #00b0f4; /* DEFAULT: #00b0f4 */
-
+  --overlay-brightness: 0.8;
+  
   /*
     Visit https://fonts.google.com and select one to your liking.
     Now just follow this tutorial: https://imgur.com/a/CNbw7xC
